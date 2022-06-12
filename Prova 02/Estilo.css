@@ -1,0 +1,60 @@
+.Logo {
+    position: absolute;
+    left: 19%;
+}
+#marca {
+    position: absolute;
+    top: 0%;
+    height: 200px;
+    width: 200px;
+}
+.SubT {
+    position: absolute;
+    top: 10%;
+    left: 19%;
+}
+.Texto {
+    font-size: 14pt;
+    font-family: Arial;
+    padding-left: 5%;
+    padding-right: 4%;
+    position: absolute;
+    top: 30%;
+}
+#lc1 {
+    margin-right: 15px;
+    float: left;
+    height: 250px;
+    width: 160px;
+}
+#ladoimg {
+    text-align: justify;
+    text-align: left;
+}
+#lista {
+    text-align: justify;
+    text-align: left;
+    font-size: 14pt;
+    font-family: Arial;
+}
+#sorteio {
+    margin-right: 15px;
+    float: left;
+    height: 250px;
+    width: 160px;
+}
+.Texto2 {
+    font-size: 14pt;
+    font-family: Arial;
+    padding-left: 4%;
+    padding-bottom: 5%;
+    position: absolute;
+    top: 95%;
+}
+#divF {
+    font-size: 14pt;
+    font-family: Arial;
+    margin-left: center;
+    position: absolute;
+    top: 85%;
+}
